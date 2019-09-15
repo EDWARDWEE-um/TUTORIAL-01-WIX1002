@@ -29,3 +29,19 @@ Otherwise
   Print " Fail "
 End
 ```
+4. Print the results of the two players' dice game
+```
+Start
+Generate first random number, P1 from (1-6)
+Generate second random numner, P2 from(1-6)
+If P1 = P2 
+  Print " tie "
+Otherwise
+  If P1>P2
+  Print" Player 1 wins"
+Otherwise
+  Print" Player 2 wins"
+End
+```
+
+  
