@@ -2,8 +2,8 @@
 Build the pseudocode and flow chart for each of the problems:
 ## PART 1
 1. Request two numbers from the user and print the multiplication of the numbers.
-'Start'
 ```Pseudocode
+Start
 Request first number,n1
 Request second number,n2
 Answer = n1*n2
