@@ -101,5 +101,21 @@ While the index is less than the length of the sentence
   increase the index by1 
 Print the number of character U and M
 End
+```
+9. Display the frequency of a keyword from a web page.
+```
+Start
+Initialise the frequency of keyword as 0
+Obtain a keyword from the user
+Read from a web page
+while the web page is not end of the file
+  read one line from page
+  for each word in the line
+  if the word is equal to keyword
+  increase the frequency of keyword by 1
+Print frequency of the keyword  
+End
+```
+
 
   
