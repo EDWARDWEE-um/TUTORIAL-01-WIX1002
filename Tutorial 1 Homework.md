@@ -23,7 +23,7 @@ End
 ```
 Start
 Prompt user to input mark, M
-If mark is greater or equal 50
+If mark is greater or equal 40
   Print " Pass "
 Otherwise
   Print " Fail "
