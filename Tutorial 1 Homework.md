@@ -116,6 +116,20 @@ while the web page is not end of the file
 Print frequency of the keyword  
 End
 ```
-
-
+10. Display the number of female student from a random list of 100 students
+```
+Start
+Initialise a counter as 1
+While the counter is less than or equal to 100
+  Randomly generate a student with a gender (Male/Female)
+  Store the student in the list
+  Increase the counter by 1
+Female student = femaleStudent
+Assign femaleStudent as 0
+for each student in the list
+ if the gender is female
+   increase the femaleStudent by 1
+Print the number of female student
+End
+```
   
