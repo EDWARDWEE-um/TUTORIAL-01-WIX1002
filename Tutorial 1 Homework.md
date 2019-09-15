@@ -84,5 +84,22 @@ While counter is less than 10
 Print even number and odd number 
 End
 ```
+## Part 2
+8. Count the number of alphabet U and M from a sentence entered by user.
+```
+Start
+U = characterU
+M = characterM
+Assign characterU as 0 and characterM as 0
+Assign an index that point to the first character of the sentence 
+While the index is less than the length of the sentence
+  read the character according to the index 
+  if the character is U
+    increase the characterU by 1
+  or if the character is M
+    increase the characterM by 1
+  increase the index by1 
+Print the number of character U and M
+End
 
   
