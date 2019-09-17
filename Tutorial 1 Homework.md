@@ -10,6 +10,7 @@ Answer = n1*n2
 Print Answer
 End
 ```
+![](image.png)
 2. Determine whether a random number is greater than 50.
 ```Pseudocode
 Generate a random number
